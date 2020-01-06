@@ -114,32 +114,32 @@ author:
   links:
     - label: "Mail"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:mael.fabien@gmail.com
+      url: mailto:pasega.wade@gmail.com
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/mael-fabien/"
+      icon: #"fab fa-fw fa-linkedin"
+      url: #"https://www.linkedin.com/in/mael-fabien/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/maelfabien/"
+      url: "https://github.com/papasega/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/fabien_mael
+      url: #https://twitter.com/fabien_mael
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/maelfabien/"
+      url: "https://github.com/papasega/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/mael-fabien/"
+      url: #"https://www.linkedin.com/in/mael-fabien/"
 
 
 # Reading Files
